@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IainAmosMelchizedek
+- 👋 Hi, I’m @Iain Melchizedek
 - 👀 I’m interested in learning as much as I can.
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on finding data sets around spirituality 
+- 🌱 I’m currently learning data analytics at Northeastern Univeristy - BOSTON, MA
+- 💞️ I’m looking to collaborate on finding data sets around spirituality.
 - 📫 How to reach me email: Iainamos@outlook.com
 
 <!---
