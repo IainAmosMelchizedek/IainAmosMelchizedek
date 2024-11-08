@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iain Melchizedek
+- 👋 Hi, I’m @IainMelchizedek
 - 👀 I’m interested in learning as much as I can.
 - 🌱 I’m currently learning data analytics at Northeastern Univeristy - BOSTON, MA
 - 💞️ I’m looking to collaborate on finding data sets around spirituality.
