@@ -73,5 +73,5 @@ As a graduate student in Data Analytics at Northeastern University, I am deeply 
 - Collaborate on open-source initiatives that push the boundaries of data-driven innovation.
 - Grow as a data professional while staying connected to my personal values of curiosity, growth, and collaboration.
 
----   ![Funny GIF](https://media.giphy.com/media/8fpRPlYyXtBChjTb2K/giphy.gif)
+                                         ![Funny GIF](https://media.giphy.com/media/8fpRPlYyXtBChjTb2K/giphy.gif)
 
