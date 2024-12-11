@@ -74,6 +74,5 @@ As a graduate student in Data Analytics at Northeastern University, I am deeply 
 - Grow as a data professional while staying connected to my personal values of curiosity, growth, and collaboration.
 
 ---
-
-- ![Arjuna and Jesus Sticker](https://media.giphy.com/media/xDu06mKNBR2WDUa0Fq/giphy.gif)
+![Arjuna and Jesus Sticker](https://media.giphy.com/media/xDu06mKNBR2WDUa0Fq/giphy.gif)
 
