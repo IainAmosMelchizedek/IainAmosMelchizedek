@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Iain Amos Melchizedek
 
 🚀 **Data Analyst who is an aspiring Data Scientist & Graduate Student**  
-🎓 **Currently studying Data Analytics at Northeastern University, Boston, MA**  
+🎓 **Currently studying Computer Science, the aspect of Data Analytics at Northeastern University, Boston, MA**  
 🔍 **Exploring cutting-edge technologies in data mining, analytics and machine learning.**  
 
 ---
