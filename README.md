@@ -68,7 +68,7 @@ Here are some of my recent projects that I'm proud of:
 ## Natural Language Processing (NLP)
 - NLTK
 
-#### **Special Interests**
+## Special Interests
 - Data Mining, Visualization, Predictive Modeling, Machine Learning, Deep Learning, Database Management 
 
 ---
