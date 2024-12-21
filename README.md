@@ -34,18 +34,39 @@ Here are some of my recent projects that I'm proud of:
 #### **Technical Languages**
 - Python, R, SQL, Java, C++  
 
-#### **Data Tools**
-- Tableau, Power BI, R Shiny, QlikView, Plotly, ggplot2, Excel, SAS, SPSS  
+# Data Analytics Tools and Platforms
 
-#### **Machine Learning**
-- Scikit-learn, TensorFlow, CatBoost  
+## Data Manipulation and Processing
+- Pandas
+- NumPy
 
-#### **Big Data Platforms**
-- **Apache Hadoop:** Framework for distributed storage and processing  
-- **Apache Spark:** Big data processing framework with machine learning and real-time capabilities  
-- **Hive:** SQL-like querying in Hadoop ecosystems  
-- **Snowflake:** Data warehousing and analytics platform  
-- **Cloudera:** Enterprise platform for big data  
+## Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+
+## Machine Learning and Data Mining
+- Scikit-learn
+- XGBoost / CatBoost / LightGBM
+
+## Data Collection
+- Beautiful Soup
+- Scrapy
+- Selenium
+
+## Big Data and Distributed Computing
+- PySpark
+- Hadoop Streaming
+
+### Big Data Platforms
+- Apache Hadoop
+- Apache Spark
+- Hive
+- Snowflake
+- Cloudera
+
+## Natural Language Processing (NLP)
+- NLTK
 
 #### **Special Interests**
 - Data Mining, Visualization, Predictive Modeling, Machine Learning, Deep Learning, Database Management 
