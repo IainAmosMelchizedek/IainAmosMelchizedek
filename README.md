@@ -31,7 +31,7 @@ Here are some of my recent projects that I'm proud of:
 
 ## 🛠️ Skills
 
-#### **Technical Languages**
+# Technical Languages
 - Python, R, SQL, Java, C++  
 
 # Data Analytics Tools and Platforms
