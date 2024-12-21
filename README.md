@@ -49,10 +49,22 @@ Here are some of my recent projects that I'm proud of:
 - Scikit-learn
 - XGBoost / CatBoost / LightGBM
 
+## Time-Series Analysis
+- Prophet
+
 ## Data Collection
 - Beautiful Soup
 - Scrapy
 - Selenium
+
+## Data Cleaning and Preparation
+- Pyjanitor
+
+## Statistical Analysis
+- Pingouin
+
+## Geospatial Analytics
+- Shapely
 
 ## Big Data and Distributed Computing
 - PySpark
@@ -65,8 +77,21 @@ Here are some of my recent projects that I'm proud of:
 - Snowflake
 - Cloudera
 
+## Dashboarding and Business Intelligence
+- Dash
+- Streamlit
+- Panel
+- Voila
+
+## Database Interaction
+- sqlite3
+
+## Data Workflow Automation
+- Luigi
+
 ## Natural Language Processing (NLP)
 - NLTK
+
 
 ## Special Interests
 - Data Mining, Visualization, Predictive Modeling, Machine Learning, Deep Learning, Database Management 
