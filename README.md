@@ -31,66 +31,150 @@ Here are some of my recent projects that I'm proud of:
 
 ## 🛠️ Skills
 
-# Technical Languages
-- Python, R, SQL, Java, C++  
+### # Technical Languages
+- Python, R, SQL, Java, C++
 
-# Data Analytics Tools and Platforms
+---
 
-## Data Manipulation and Processing
-- Pandas
-- NumPy
-
-## Data Visualization
-- Matplotlib
-- Seaborn
-- Plotly
-
-## Machine Learning and Data Mining
-- Scikit-learn
-- XGBoost / CatBoost / LightGBM
-
-## Time-Series Analysis
-- Prophet
-
-## Data Collection
-- Beautiful Soup
-- Scrapy
-- Selenium
-
-## Data Cleaning and Preparation
-- Pyjanitor
-
-## Statistical Analysis
-- Pingouin
-
-## Geospatial Analytics
-- Shapely
-
-## Big Data and Distributed Computing
-- PySpark
-- Hadoop Streaming
-
-### Big Data Platforms
+### # Data Analytics Tools and Platforms
+- Python
+- R
 - Apache Hadoop
 - Apache Spark
 - Hive
 - Snowflake
 - Cloudera
 
-## Dashboarding and Business Intelligence
+---
+
+### # Data Manipulation and Processing
+- Pandas
+- NumPy
+- dplyr
+- tidyr
+- data.table
+- lubridate
+- forcats
+- stringr
+
+---
+
+### # Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+- ggplot2
+- lattice
+- shiny
+
+---
+
+### # Machine Learning and Data Mining
+- Scikit-learn
+- XGBoost
+- CatBoost
+- LightGBM
+- caret
+- mlr3
+- randomForest
+- gbm
+
+---
+
+### # Time-Series Analysis
+- Prophet
+- forecast
+- tsibble
+- fable
+- zoo
+- xts
+
+---
+
+### # Data Collection
+- Beautiful Soup
+- Scrapy
+- Selenium
+- rvest
+- httr
+- RCurl
+
+---
+
+### # Data Cleaning and Preparation
+- Pyjanitor
+- janitor
+- tidyr
+- dplyr
+
+---
+
+### # Statistical Analysis
+- Pingouin
+- stats
+- car
+- MASS
+- DescTools
+- psych
+
+---
+
+### # Geospatial Analytics
+- Shapely
+- sf
+- rgdal
+- raster
+- tmap
+- ggspatial
+
+---
+
+### # Big Data and Distributed Computing
+- PySpark
+- Hadoop Streaming
+- sparklyr
+
+---
+
+### # Big Data Platforms
+- Apache Hadoop
+- Apache Spark
+- Hive
+- Snowflake
+- Cloudera
+
+---
+
+### # Dashboarding and Business Intelligence
 - Dash
 - Streamlit
 - Panel
 - Voila
+- Shiny
+- flexdashboard
 
-## Database Interaction
+---
+
+### # Database Interaction
 - sqlite3
+- DBI
+- RSQLite
 
-## Data Workflow Automation
+---
+
+### # Data Workflow Automation
 - Luigi
+- drake
+- targets
 
-## Natural Language Processing (NLP)
+---
+
+### # Natural Language Processing (NLP)
 - NLTK
+- text
+- quanteda
+- tm
+
 
 
 ## Special Interests
