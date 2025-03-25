@@ -16,6 +16,7 @@
 
 ## 📚 Current Projects
 Here are some of my recent projects that I'm proud of:  
+- **[Five_Element_AI](https://github.com/IainAmosMelchizedek/five-element-ai):** Five Element AI is a neural network trained on Traditional Chinese Medicine (TCM) principles to recommend personalized acupuncture points based on physical symptoms, pulse and tongue diagnoses, and spiritual goals.
 - **[Spotify Music Dashboard](https://github.com/username/spotify-music-dashboard):** An interactive dashboard exploring Spotify's top songs and audio features.  
 - **[Forest Erosion Model](https://github.com/username/forest_erosion_model):** Predicting forest cover and erosion risks using R and Shiny.  
 - **[XAI Analytics Dashboard](https://github.com/username/XAI-Powered-Analytics-Dashboard):** Explainable AI insights for decision-making with Streamlit.  
