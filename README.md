@@ -1,16 +1,29 @@
 # 👋 Hi, I'm Iain Amos Melchizedek
 
-🚀 **Data Analyst who is an aspiring Data Scientist & Graduate Student**  
-🎓 **Currently studying Computer Science, the aspect of Data Analytics at Northeastern University, Boston, MA**  
-🔍 **Exploring cutting-edge technologies in data mining, analytics and machine learning.**  
+🚀 **Data Analyst & Aspiring Data Scientist | Data is the most valuable currency of our time.** 
+
+🎓 **Graduate of Northeastern University (Boston, MA) — M.S. in Computer Science with a focus on Data Analytics, AI, and IT**
+
+⚖️ **Undergraduate degree in Pre-Law from Lake Superior State University — foundation in logic, research, and critical analysis**
+
+🔍 **Currently exploring data mining, machine learning, and Linux systems as part of building sovereign, intelligent infrastructures for small business owners who recognize that their data is theirs to control. Not Government. Not Big Tech.**
+
+🛡️ **Mission: Keep Big Tech and Government out of the business of Small Businesses**
 
 ---
 
 ## 📌 About Me
-- 🌱 I’m passionate about using data to uncover insights and solve problems.  
-- 💻 I enjoy working on projects involving predictive modeling, data visualization, and automation.  
-- 🧘‍♂️ I’m interested in analyzing datasets around **spirituality** and **personal growth.**  
-- 📫 **Reach me at:** [iainamos@outlook.com](mailto:iainamos@outlook.com)  
+
+🌱 I’m passionate about using data to uncover uncomfortable insights, drive insight, and solve real-world problems. Through my work, I’ve observed how government agencies exploit citizen data for political leverage, and how Big Tech extracts business intelligence from small business users—only to repackage and sell it back. That’s not innovation. That’s exploitation.
+
+💻 I specialize in predictive modeling, data visualization, and automation—building tools that empower, not extract. 
+
+🧘‍♂️ I’m especially interested in working with datasets related to **spirituality**, **animal behavior**, and **ethical systems design.**  
+
+🛡️ I’m the founder of **Safe Passage Strategies, LLC**, a consultancy helping small businesses reclaim control of their data and build sovereign infrastructure free from Big Tech overreach. I’m also a vocal advocate for keeping government out of small business operations—data, decisions, and direction.  
+
+📫 **Reach me at:** [iainamos@outlook.com](mailto:iainamos@outlook.com)
+
 
 ---
 
@@ -25,15 +38,22 @@ Here are some of my recent projects that I'm proud of:
 ---
 
 ## 🔗 Links & Profiles
-- 🌍 **Website/Portfolio:** [Coming Soon](#)  
-- 🖋️ **ORCID:** [0000-0001-1234-5678](https://orcid.org/your-id)  
+
+ 🌍 **Website:** [safe-passage-strategies.com](https://www.safe-passage-strategies.com)  
+🖋️ **ORCID:** [0009-0002-5229-2888](https://orcid.org/0009-0002-5229-2888)
+
 
 ---
 
-## 🛠️ Skills
+### 🧠 Technical Languages
 
-### # Technical Languages
-- Python, R, SQL, Java, C++
+- Python  
+- R  
+- SQL  
+- Java  
+- C++  
+- Perl
+
 
 ---
 
@@ -192,17 +212,31 @@ Here are some of my recent projects that I'm proud of:
 
 ## 🌟 Extended Description
 
-As a graduate student in Data Analytics at Northeastern University, I am deeply passionate about transforming complex datasets into actionable insights. My journey into data science started with a curiosity about how technology shapes our lives, and today, I focus on applying advanced analytics to solve real-world problems.
+I am deeply passionate about helping small businesses become sovereign. Small businesses make up 90–99% of all businesses worldwide. They are the lifeblood of economies, the engines of innovation, and often the only source of employment in their communities. 
 
-### 💡 What Drives Me:
-- **Bridging Science and Spirituality:** I’m fascinated by the intersection of data science and spirituality, exploring how insights from datasets can inspire personal and collective growth.
-- **Big Data Enthusiast:** I enjoy working with large-scale data platforms like Hadoop and Snowflake to uncover trends and optimize decision-making.
-- **Creativity in Analytics:** For me, analytics is as much about art as it is about science. I love creating visually engaging dashboards and tools that make complex information accessible to everyone.
+Yet, they are routinely exploited—Big Tech profits from their data without consent, and government agencies impose outdated, nonsensical regulations, often fining them as a revenue strategy.
 
-### 🎯 My Goals:
-- Contribute to projects that address pressing societal challenges, such as climate change and spiritual health.
-- Collaborate on open-source initiatives that push the boundaries of data-driven innovation.
-- Grow as a data professional while staying connected to my personal values of curiosity, growth, and collaboration.
+My mission is to empower small businesses by helping them recognize the value of the data they generate every day. I guide them in accurately capturing that data to create high-quality, structured datasets that can be ethically monetized—**on their terms**—rather than having Big Tech extract and resell it back to them.
+
+I specialize in transforming complex datasets into actionable insights, with a focus on ethical, human-centered data strategy. My journey into data science began with a curiosity about how technology shapes our lives. Today, I apply advanced analytics to solve real-world problems and support small businesses in reclaiming their digital power.
+
+
+### 💡 What Drives Me
+
+I am driven to uncover uncomfortable truths about the roles Big Tech and government play in oppressing human freedom—especially in how they control, exploit, and profit from data.
+
+- **Bridging Science and Spirituality:** I’m fascinated by the intersection of data science and spirituality, exploring how meaningful insights from datasets can drive both personal and collective transformation.  
+- **Big Data Enthusiast:** I enjoy working with large-scale platforms like Hadoop and Snowflake to uncover patterns, optimize decision-making, and support sovereign infrastructure.  
+- **Creativity in Analytics:** For me, analytics is both an art and a science. I take pride in designing visually engaging dashboards and tools that make complex information intuitive and actionable for all users.
+
+
+### 🎯 My Goals
+
+- To help small businesses across America first, than globally, reclaim their greatness through true sovereignty—owning their data, decisions, and direction.  
+- Contribute to projects that address pressing societal challenges, including climate change, economic justice, and spiritual well-being.  
+- Collaborate on open-source initiatives that challenge the status quo and expand the frontiers of data-driven innovation.  
+- Continue growing as a data professional while staying rooted in my core values: curiosity, integrity, and purposeful collaboration.
+
 
   ![Funny GIF](https://media.giphy.com/media/8fpRPlYyXtBChjTb2K/giphy.gif)
 
