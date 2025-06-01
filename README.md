@@ -212,18 +212,27 @@ Here are some of my recent projects that I'm proud of:
 
 ## 🌟 Extended Description
 
-I am deeply passionate about helping small businesses become sovereign. Small businesses make up 90–99% of all businesses worldwide. They are the lifeblood of economies, the engines of innovation, and often the only source of employment in their communities. 
+I specialize in transforming complex datasets into actionable insights, with a focus on ethical, human-centered data strategy.
 
-Yet, they are routinely exploited—Big Tech profits from their data without consent, and government agencies impose outdated, nonsensical regulations, often fining them as a revenue strategy.
+My journey into data science began with legal survival in mind. In 2023, I was wrongfully accused by officials at the Consumer Financial Protection Bureau (CFPB) of committing a data breach after I disclosed to senior leadership—including Elizabeth Warren and Mitchell Kent—that CFPB management was collecting consumer data for political purposes during compliance reviews at depository and non-depository institutions.
 
-My mission is to empower small businesses by helping them recognize the value of the data they generate every day. I guide them in accurately capturing that data to create high-quality, structured datasets that can be ethically monetized—**on their terms**—rather than having Big Tech extract and resell it back to them.
+While serving as an examiner, I accessed substantial internal data involving complaints from institutions under CFPB scrutiny and observed a disturbing trend: disproportionate scrutiny was being applied to institutions aligned with conservative or Republican ideologies. This confirmed longstanding concerns about political weaponization inside the CFPB—an agency founded by figures like Elizabeth Warren and Richard Cordray, whose public reputations conceal deeper ethical issues.
 
-I specialize in transforming complex datasets into actionable insights, with a focus on ethical, human-centered data strategy. My journey into data science began with a curiosity about how technology shapes our lives. Today, I apply advanced analytics to solve real-world problems and support small businesses in reclaiming their digital power.
+Importantly, there is no safe, protected channel for federal employees to whistleblow against federal agencies that brand themselves as watchdogs. I had no institutional recourse.
+
+With a pre-law undergraduate degree, I made the strategic decision to pursue a Master’s in Data Analytics so I could defend myself using legal and technical precision. Ironically, the very agency that accused me failed to understand what constitutes a data breach. In sworn testimony on June 13, 2023 (U.S. Senate Committee on Banking, Housing, and Urban Affairs) and June 14, 2023 (House Financial Services Committee), CFPB Director Rohit Chopra confirmed under oath that no personally identifiable information—no names, Social Security numbers, or dates of birth—was disclosed. These are the core elements required to meet the legal definition of a breach.
+
+Despite branding me an "Insider Threat," the Department of Justice declined to prosecute the case—acknowledging the baselessness of the claims. I now wear that title with pride. I exposed uncomfortable insights  against a US federal agency that exploits the very public it claims to protect.
+
+Today, I apply advanced analytics to help small businesses defend themselves from similar overreach—whether by Big Tech or government. My story is not just personal; it’s a case study in how data, law, and ethics intersect in the real world. Technology didn’t just shape my career—it helped me survive against false accusations from government institutions.
+
+One day, this story may become something like *Burn After Reading*: a dark satire of institutional incompetence. But until then, I’m focused on building sovereign tools, guiding others through unjust systems, and ensuring no small business is left defenseless.
+
 
 
 ### 💡 What Drives Me
 
-I am driven to uncover uncomfortable truths about the roles Big Tech and government play in oppressing human freedom—especially in how they control, exploit, and profit from data.
+**I am driven to uncover uncomfortable insights about the roles Big Tech and government play in oppressing human freedom—especially in how they control, exploit, and profit from data.**
 
 - **Bridging Science and Spirituality:** I’m fascinated by the intersection of data science and spirituality, exploring how meaningful insights from datasets can drive both personal and collective transformation.  
 - **Big Data Enthusiast:** I enjoy working with large-scale platforms like Hadoop and Snowflake to uncover patterns, optimize decision-making, and support sovereign infrastructure.  
