@@ -47,5 +47,6 @@ I am not interested in coercion, conformity, or moral hierarchy.
 I am interested in self-governance, inward order, and parallel participation—in life, in work, and in how systems are built.
 
 
+
 ![Funny GIF](https://media.giphy.com/media/8fpRPlYyXtBChjTb2K/giphy.gif)
 
