@@ -1,6 +1,5 @@
 I’m Iain Amos Melchizedek
 
-Data Analyst
 
 I work with data, logic, and evidence to help build sovereign, human-centered systems for people who are choosing to live and operate differently. I no longer believe authority is something to be appealed to.
 
