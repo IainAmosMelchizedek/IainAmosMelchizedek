@@ -84,3 +84,5 @@ Founder, Safe Passage Strategies, LLC
 If you would like to help build this parallel operational way of living, and want to leave behind those who do not align with your highest version of you, feel free to contact me at: <iain@safe-passage-strategies.com>
 
 If your loyalty is not to Humanity, please do not waste your time or mine. Those who serve Humanity live beyond the senses; intention is always revealed. Humanity recognizes Humanity. If you lack true understanding of Humanity, or present yourself as aligned while harboring a different intent, know that the secrets of the heart are never concealed. Nothing remains hidden from those who act with pure intention.
+
+![Funny GIF](https://media.giphy.com/media/8fpRPlYyXtBChjTb2K/giphy.gif)
